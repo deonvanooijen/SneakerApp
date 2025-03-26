@@ -1,6 +1,6 @@
 # SneakerApp
  
-Sneakerstore App for one of my favorite sneaker brands made with Jetpack Compose. It's got a local database using Room for saving data to favorites or the cart.
+Sneaker store app for one of my favorite sneaker brands made with Jetpack Compose. It's got a local database using Room for saving data to favorites or the cart.
  
 <h2> 📸 Screenshots
 
